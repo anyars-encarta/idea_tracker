@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project to show the usage of appwrite bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). With TypeScript and app router. Adding search
+This is a [Next.js](https://nextjs.org) project to show the usage of appwrite bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). With TypeScript and app router. Adding
 
 ## Getting Started
 
