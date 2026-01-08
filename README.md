@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project to show the usage of appwrite bootstrapped.
+This is a [Next.js](https://nextjs.org) project to show the usage of appwrite.
 
 ## Getting Started
 
