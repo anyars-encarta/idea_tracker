@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project to show the usage of appwrite, built with JavaScript and basic styling.
+This is a [Next.js](https://nextjs.org) project to show the usage of appwrite, built with JavaScript and basic styling with Tailwind.
 
 ## Getting Started
 
